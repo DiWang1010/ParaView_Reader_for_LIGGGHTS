@@ -5,3 +5,5 @@ Please see README File in the package for further information.
 It is an open-source code, distributed freely under the terms of the GNU Public License (GPL).
 
 Many thanks to Christian Schubert from TU Dresden for his improvements to the Cmake Files and the source-code of the text reader plugin.
+
+https://www.cfdem.com/forums/tutorial-4-superquadric-angle-repose-representation-python-filter
